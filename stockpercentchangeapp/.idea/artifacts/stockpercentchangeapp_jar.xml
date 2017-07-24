@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stockpercentchangeapp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stockpercentchangeapp_jar</output-path>
+    <root id="archive" name="stockpercentchangeapp.jar">
+      <element id="module-output" name="stockpercentchangeapp" />
+    </root>
+  </artifact>
+</component>
