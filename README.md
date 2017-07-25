@@ -1,6 +1,8 @@
 SP500 Case Assignment
 ===================
-By:Ricky Leung
+By: Ricky Leung
+
+Date: July 24th, 2017
 
 Problem Statement
 -------------
